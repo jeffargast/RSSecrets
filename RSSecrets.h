@@ -71,7 +71,7 @@
  
  @param key     The key to remove
  
- @deprectated   Use removeObjectForKey: instead
+ @deprecated    Use removeObjectForKey: instead
  */
 + (void)removeKey:(NSString *)key __attribute__((deprecated));
 
