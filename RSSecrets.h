@@ -2,24 +2,25 @@
 //  RSSecrets.h
 //  Secrets
 //
-// Copyright (C) 2012, Jeff Argast. All rights reserved.
+// Copyright (c) 2012-2015 Jeff Argast
 //
-// The author make NO WARRANTY or representation, either express or implied,
-// with respect to this software, its quality, accuracy, merchantability, or
-// fitness for a particular purpose.  This software is provided "AS IS", and you,
-// its user, assume the entire risk as to its quality and accuracy.
+// Permission is hereby granted, free of charge, to any person obtaining a copy
+// of this software and associated documentation files (the "Software"), to deal
+// in the Software without restriction, including without limitation the rights
+// to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+// copies of the Software, and to permit persons to whom the Software is
+// furnished to do so, subject to the following conditions:
 //
-// Permission is hereby granted to use, copy, modify, and distribute this
-// software or portions thereof for any purpose, without fee, subject to these
-// conditions:
+// The above copyright notice and this permission notice shall be included in all
+// copies or substantial portions of the Software.
 //
-// (1) If any part of the source code is distributed, then this
-// statement must be included, with this copyright and no-warranty notice
-// unaltered.
-//
-// (2) Permission for use of this software is granted only if the user accepts
-// full responsibility for any undesirable consequences; the author accepts
-// NO LIABILITY for damages of any kind.
+// THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+// IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+// FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+// AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+// LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+// OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+// SOFTWARE.
 //
 
 #import <Foundation/Foundation.h>
